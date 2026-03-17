@@ -1,5 +1,3 @@
-# stroke-prediction-ml
-Machine learning project for stroke prediction (MSc coursework)
 # Stroke Prediction – Machine Learning Project
 
 This project was developed as part of my MSc coursework in Neuroscience at the University of Padua.
